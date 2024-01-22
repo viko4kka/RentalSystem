@@ -1,0 +1,6 @@
+vika vika vika true
+ty ty ty false
+asdf sdf asdf true
+qwer qwer qwer false
+vbn bnm nm true
+gfd ghjjh hjk false
